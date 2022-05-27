@@ -1,7 +1,0 @@
-Project home: https://github.com/Starlight-Brilliant/random_call_ch
-*main developer: Ziran Tang
-                 @StarlightResplendent: https://github.com/Starlight-Brilliant
-*moderator:      Lunli Yuan
-                 @Zhijiang Dong Autonomous County 1st middle school
-A tool to call students randomly.
-This is coded for practising, there may be bugs and bad coding behaviors.
